@@ -38,5 +38,3 @@ If you liked it or found inspiration from it, feel free to leave a ⭐ on the re
 
 Stay creative & keep building! ✨
 ```
-
-
